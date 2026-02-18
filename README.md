@@ -1,0 +1,55 @@
+# Azari – Sell a Friend
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I can't fake　クラクラしたい
+待ったって　ま、変わらない
+I can't trade　刻みつけたい
+あなたのエラー
+I can't fake　すぐに飛びたい
+去ったって　裁かれない
+I can't trade　取り替えれない
+壊れたセンサー
+浴びたい　Happy time　まだ夜は深い
+早まった行動　止められないわ　Tonight
+ただ蒔いたら咲いた花の　Parasite
+ならLuckyに　ひとつまみしたい
+No, rise and fallには　Silent
+興味は無い
+Tonight,
+Tonight,
+Tonight,
+期待したい　Delight
+すぐに会いたい　ただ
+なのにいつも　怖い？
+ホワイ？　You lie!
+暴き出したい　だから
+Sell a friend!
+誓いを買いなさい
+見ないでいたい？　まだ
+だけど少し　見たい？
+見たい？　I like!
+繋いでいたい　ならば
+Sell a friend tonight!
+愛なんて　すぐに消えない
+いつだって　逆らえない
+愛なんて　無口でいたい
+優れた連鎖
+La La 夢の中でも
+La La あなたのもしも
+La La 必要ないの
+愛はホンモノ
+期待したい　Delight
+すぐに会いたい　ただ
+なのにいつも　怖い？
+ホワイ？　You lie!
+暴き出したい　だから
+Sell a friend!
+誓いを買いなさい
+見ないでいたい？　まだ
+だけど少し　見たい？
+見たい？　I like!
+繋いでいたい　ならば
+Sell a friend tonight!
+```
