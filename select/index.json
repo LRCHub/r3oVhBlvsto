@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sell a Friend",
+  "base_artist": "Azari",
+  "createdAt": "2026-02-18T02:35:22.546985Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sell a Friend",
+      "artist": "Azari",
+      "has_synced": false,
+      "path": "select/pl_01_Sell_a_Friend_Azari.txt"
+    }
+  ]
+}
